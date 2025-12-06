@@ -10,7 +10,7 @@ java-oop-project/
 │   ├── main/
 │   │   └── java/
 │   │       └── tp3/exercice4/
-│   │           └── Main.java
+│   │           └── ComptesBancaires.java
 │   └── test/
 │       └── java/
 ├── target/       (compiled classes)
